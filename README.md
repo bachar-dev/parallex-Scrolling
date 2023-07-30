@@ -1,6 +1,6 @@
 # parallex1
 
-A new Flutter project.
+A new Flutter project created By complex UI developer on github!
 
 ## Getting Started
 
